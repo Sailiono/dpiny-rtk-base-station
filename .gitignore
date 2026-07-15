@@ -1,0 +1,55 @@
+# STM32CubeMX Files
+# *.ioc
+# .mxproject
+
+# Reference & Docs
+# DevRef/
+
+# Claude Code (AI agent working files — local only)
+.claude/
+
+# Build & Output
+build/
+bin/
+obj/
+
+# Test Results & Debug Logs
+debug_output.txt
+final_test_results.txt
+full_test_results.txt
+port_scan.txt
+test_results.txt
+
+# Temporary Test Scripts (root level)
+debug_read.ps1
+scan_ports.ps1
+dual_port_check.ps1
+final_check.ps1
+full_test.ps1
+automated_test.ps1
+script.ps1
+test_script.ps1
+
+# Project Reports (development artifacts)
+CODE_CHANGES_DETAILED_CN.md
+FUNCTIONAL_TEST_PLAN_CN.md
+OPTIMIZATION_REPORT_CN.md
+
+# IDE Files
+.vscode/
+.settings/
+.project
+.cproject
+
+# Public snapshot exclusions
+DevRef/
+*.pdf
+*.xlsx
+*.docx
+*.csv
+*.log
+*.bin
+*.hex
+*.elf
+*.pem
+*.key
