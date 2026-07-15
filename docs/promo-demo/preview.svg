@@ -34,20 +34,20 @@
   <rect width="1200" height="760" fill="url(#grid)"/>
   <rect x="0" y="0" width="1200" height="760" fill="none" stroke="#f4f1e8" stroke-opacity="0.06"/>
 
-  <text x="64" y="72" class="kicker">AI EMBEDDED DELIVERY WORKFLOW</text>
-  <text x="64" y="128" class="title">从需求到可验证固件，一条命令交付嵌入式系统</text>
+  <text x="64" y="72" class="kicker">ENGINEERING VERIFICATION WORKFLOW</text>
+  <text x="64" y="128" class="title">从需求到可验证固件，用工程证据完成交付</text>
   <text x="64" y="166" class="muted">需求规约 / 任务编排 / 编译构建 / 接口映射 / 测试执行 / 证据归档</text>
   <g transform="translate(64 184)">
     <rect width="220" height="34" rx="8" fill="#121611" stroke="#80ff72" stroke-opacity=".34"/>
-    <text x="14" y="22" class="monoSmall" fill="#80ff72">API bill: ¥9.22 CNY</text>
+    <text x="14" y="22" class="monoSmall" fill="#80ff72">REAL STM32 BENCH</text>
   </g>
   <g transform="translate(300 184)">
     <rect width="190" height="34" rx="8" fill="#121611" stroke="#54d7ff" stroke-opacity=".34"/>
-    <text x="14" y="22" class="monoSmall" fill="#54d7ff">1 person / 3 days</text>
+    <text x="14" y="22" class="monoSmall" fill="#54d7ff">RTCM CRC GATE</text>
   </g>
   <g transform="translate(506 184)">
     <rect width="230" height="34" rx="8" fill="#121611" stroke="#ffb84d" stroke-opacity=".34"/>
-    <text x="14" y="22" class="monoSmall" fill="#ffb84d">cost down: 80-88%</text>
+    <text x="14" y="22" class="monoSmall" fill="#ffb84d">RESET RECOVERY</text>
   </g>
 
   <g transform="translate(64 218)">
